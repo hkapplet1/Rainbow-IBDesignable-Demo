@@ -159,6 +159,8 @@
 		F473DC391AC7AB0F00B157DD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0730;
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = AppCoda;
 				TargetAttributes = {
@@ -411,6 +413,7 @@
 				F473DC621AC7AB0F00B157DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F473DC631AC7AB0F00B157DD /* Build configuration list for PBXNativeTarget "RainbowDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +422,7 @@
 				F473DC651AC7AB0F00B157DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

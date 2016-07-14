@@ -20,7 +20,7 @@ class Rainbow: UIView {
     @IBInspectable var middleCircleRadius:CGFloat = 150
     @IBInspectable var outerCircleRadius:CGFloat = 215
     
-    required init(coder aDecoder: NSCoder) {
+    required init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
     }
     
